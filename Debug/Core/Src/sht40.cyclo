@@ -1,0 +1,2 @@
+../Core/Src/sht40.c:38:7:sht_getTemp	1
+../Core/Src/sht40.c:66:7:sht_getHumidity	3

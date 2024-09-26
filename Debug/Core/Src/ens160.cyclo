@@ -1,0 +1,4 @@
+../Core/Src/ens160.c:46:6:ens160_Init	1
+../Core/Src/ens160.c:62:10:ens_getCO2_PPM	1
+../Core/Src/ens160.c:85:10:ens_getTVOC_PPB	1
+../Core/Src/ens160.c:109:7:ens_getCO2_Quality	5

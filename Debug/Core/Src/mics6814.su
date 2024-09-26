@@ -1,0 +1,13 @@
+../Core/Src/mics6814.c:81:6:airq5_init	8	static
+../Core/Src/mics6814.c:102:6:airq5_writeData	32	static
+../Core/Src/mics6814.c:122:10:airq5_readData	32	static
+../Core/Src/mics6814.c:149:6:airq5_setConfiguration	16	static
+../Core/Src/mics6814.c:162:10:airq5_readSensorData	24	static
+../Core/Src/mics6814.c:193:10:NO2_volts_to_ppb	24	static
+../Core/Src/mics6814.c:235:10:NO2_ppbToAQI	24	static
+../Core/Src/mics6814.c:278:10:CO_volts_to_ppm	24	static
+../Core/Src/mics6814.c:313:10:CO_ppmToAQI	24	static
+../Core/Src/mics6814.c:344:10:getNO2_ppb	8	static
+../Core/Src/mics6814.c:358:10:getNO2_AQI	8	static
+../Core/Src/mics6814.c:372:10:getCO_ppm	8	static
+../Core/Src/mics6814.c:386:10:getCO_aqi	8	static
