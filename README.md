@@ -1,6 +1,6 @@
 This project was made in a very tight deadline, with the intention of gluing up sensors and just making it work and is not intended to be a representative of production grade code. There are a lot of things that are overlooked for the sake of getting things together and running.
 There is extensive use of Global Variables that are completely against safe embedded practices, but the live expression view in Cubeide can only handle global variables, so for the sake of easy debugging, global variables are used.
-There are multiple copies of variables, confusing variable names, and impractical and non-optimized code that needs to be refactored, there were no unit tests, and no integration/black box testing as we were severely time-bound.
+There are multiple copies of variables, confusing variable names, no CRC mechanism, inclusion of standard libraries, and impractical and non-optimized code that needs to be refactored, there were no unit tests, and no integration/black box testing as we were severely time-bound.
 The end product is something that works and works Accurately. 
 
 The Hardware Block diagram of the project
